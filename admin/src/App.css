@@ -1,0 +1,19 @@
+* {
+  font-family: 'Poppins';
+}
+
+.root-container {
+  display: flex;
+}
+
+aside {
+  width: 200px;
+}
+
+.main-container {
+  width: 100%;
+}
+
+.form-label {
+  margin: 0;
+}

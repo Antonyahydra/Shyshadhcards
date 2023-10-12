@@ -1,0 +1,9 @@
+.service-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.form-container{
+    display: fle;
+}
